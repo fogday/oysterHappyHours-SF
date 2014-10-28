@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "geometry": {
-      "type": "Point",
-      "coordinates": [37.7899076655,-122.3884960181]
-      },
+        "type": "Point",
+        "coordinates": [37.7899076655, -122.3884960181]
+    },
       "properties": {
         "name": "Water Bar"
       }
@@ -15,7 +15,7 @@
       "type": "Feature",
    "geometry": {
       "type": "Point",
-      "coordinates": [37.8005753,-122.4001617]
+      "coordinates": [37.8005753, -122.4001617]
       },
       "properties": {
      "name": "Water Bar"
@@ -25,7 +25,7 @@
       "type": "Feature",
      "geometry": {
       "type": "Point",
-      "coordinates": [37.7816887,-122.3879089]
+      "coordinates": [37.7816887, -122.3879089]
       },
       "properties": {
        "name": "Water Bar"
