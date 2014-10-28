@@ -1,236 +1,39 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Water Bar\t399 The Embarcadero\tSan Francisco\tCA\t94105\t37.7899076655\t-122.3884960181\t(415) 284-9922"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Hog Island Oyster Co\t1 Ferry Bldg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "SB40\tPier 40\tSan Francisco\tCA\t94107\t37.7816887\t-122.3879089\t(415) 222-6169"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Waterfront Restaurant\tPier 7\tSan Francisco\tCA\t94111\t37.7994385\t-122.3972702\t(415) 391-2696"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "MarketBar\t1 Ferry Building\tSan Francisco\tCA\t94111\t37.7953184\t-122.3938738\t(415) 434-1100"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "E&O Asian Kitchen\t314 Sutter St\tSan Francisco\tCA\t94108\t37.7897544\t-122.4058585\t(415) 693-0303"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Plouf\t40 Belden Place\tSan Francisco\tCA\t94104\t37.7912119375\t-122.4036527917\t(415) 986-6491"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Brindisi Cucina di Mare\t88 Belden Place\tSan Francisco\tCA\t94104\t37.791566\t-122.40379\t(415) 593-8000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Georges\t415 Sansome St\tSan Francisco\tCA\t94111\t37.7941531667\t-122.4014536667\t(415) 956-6900"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Boxing Room\t399 Grove St\tSan Francisco\tCA\t94102\t37.777753\t-122.422996\t(415) 430-6590"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Pasíon\t737 Irving St.\tSan Francisco\tCA\t94122\t37.7639828776\t-122.4656723469\t(415) 742-5727"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Elite Cafe\t2049 Fillmore\tSan Francisco\tCA\t94115\t37.7884077347\t-122.4338445306\t(415) 673-5483"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Woodhouse Fish Co\t1914 Fillmore St\tSan Francisco\tCA\t94115\t37.7873093\t-122.4334128\t(415) 437-2722"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Cafe des Amis\t2000 Union St\tSan Francisco\tCA\t94123\t37.797569\t-122.432374\t(415) 563-7700"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Reed & Greenough\t3251 Scott St\tSan Francisco\tCA\t94123\t37.7996954898\t-122.4411815306\t(415) 913-7021"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Mission Street Oyster Bar\t2282 Mission St\tSan Francisco\tCA\t94110\t37.7605732245\t-122.4193422245\t(415) 621-6987"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Hog & Rocks\t3431 19th St\tSan Francisco\tCA\t94110\t37.7601192941\t-122.419758\t(415) 550-8627"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Local's Corner\t2500 Bryant St\tSan Francisco\tCA\t94110\t37.754268\t-122.409344\t(415) 800-7945"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "District\t216 Townsend St\tSan Francisco\tCA\t94107\t37.778572\t-122.39325\t(415) 896-2120"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Hyde Street Seafood House & Raw Bar\t1509 Hyde St.\tSan Francisco\tCA\t94109\t37.7947292769\t-122.4182499201\t(415) 931-3474"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Sotto Mare\t552 Green St\tSan Francisco\tCA\t94133\t37.799705\t-122.4083601\t(415) 398-3181"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Parkside Tavern\t1940 Taraval St\tSan Francisco\tCA\t94116\t37.7426405306\t-122.4868779796\t(415) 731-8900"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "B Restaurant & Bar\t720 Howard St\tSan Francisco\tCA\t94107\t37.784662\t-122.400831\t(415) 495-9800"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Anchor & Hope\t83 Minna St\tSan Francisco\tCA\t94105\t37.7878071\t-122.3988798\t(415) 501-9100"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Oola Restaurant & Bar\t860 Folsom St\tSan Francisco\tCA\t94107\t37.7809256046\t-122.4026971118\t(415) 995-2061 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Skool\t1725 Alameda St\tSan Francisco\tCA\t94103\t37.7686047286\t-122.4022694245\t(415) 255-8800"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Mission Rock Resort\t817 Terry Francois Blvd\tSan Francisco\tCA\t94107\t37.766607\t-122.386375\t(415) 701-7625"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Mayes Oyster House\t1233 Polk St\tSan Francisco\tCA\t94109\t37.7883676923\t-122.4203443846\t(415) 885-1233"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Farallon\t450 Post St\tSan Francisco\tCA\t94102\t37.788312\t-122.408909\t(415) 956-6969"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Bar Crudo\t665 Divisadero St\tSan Francisco\tCA\t94117\t37.7755509592\t-122.4380187347\t(415) 409-0679"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "Choquet's\t2500 Washington St\tSan Francisco\tCA\t94115\t37.791654\t-122.43455\t(415) 359-0075"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": "The Ramp\t855 Terry Francois St\tSan Francisco\tCA\t94107\t37.7662098652\t-122.3862252614\t(415) 621-2378"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {},
-      "properties": {
-        "name\taddress\tcity\tst\tzip\tlat\tlong\tphone": ""
-      }
-    }
-  ]
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Water Bar\t399 The Embarcadero\tSan Francisco\tCA\t94105\t37.7899076654947" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Hog Island Oyster Co\t1 Ferry Bldg" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "SB40\tPier 40\tSan Francisco\tCA\t94107\t37.7816887" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Waterfront Restaurant\tPier 7\tSan Francisco\tCA\t94111\t37.7994385" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "MarketBar\t1 Ferry Building\tSan Francisco\tCA\t94111\t37.7953184" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "E&O Asian Kitchen\t314 Sutter St\tSan Francisco\tCA\t94108\t37.7897544" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Plouf\t40 Belden Place\tSan Francisco\tCA\t94104\t37.7912119375" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Brindisi Cucina di Mare\t88 Belden Place\tSan Francisco\tCA\t94104\t37.791566" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Georges\t415 Sansome St\tSan Francisco\tCA\t94111\t37.794153166666" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Boxing Room\t399 Grove St\tSan Francisco\tCA\t94102\t37.777753" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "PasÃ­on\t737 Irving St.\tSan Francisco\tCA\t94122\t37.763982877551" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Elite Cafe\t2049 Fillmore\tSan Francisco\tCA\t94115\t37.7884077346939" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Woodhouse Fish Co\t1914 Fillmore St\tSan Francisco\tCA\t94115\t37.7873093" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Cafe des Amis\t2000 Union St\tSan Francisco\tCA\t94123\t37.797569" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Reed & Greenough\t3251 Scott St\tSan Francisco\tCA\t94123\t37.7996954897959" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Mission Street Oyster Bar\t2282 Mission St\tSan Francisco\tCA\t94110\t37.7605732244898" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Hog & Rocks\t3431 19th St\tSan Francisco\tCA\t94110\t37.7601192941176" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Local's Corner\t2500 Bryant St\tSan Francisco\tCA\t94110\t37.754268" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "District\t216 Townsend St\tSan Francisco\tCA\t94107\t37.778572" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Hyde Street Seafood House & Raw Bar\t1509 Hyde St.\tSan Francisco\tCA\t94109\t37.794729276887" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Sotto Mare\t552 Green St\tSan Francisco\tCA\t94133\t37.799705" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Parkside Tavern\t1940 Taraval St\tSan Francisco\tCA\t94116\t37.7426405306122" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "B Restaurant & Bar\t720 Howard St\tSan Francisco\tCA\t94107\t37.784662" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Anchor & Hope\t83 Minna St\tSan Francisco\tCA\t94105\t37.7878071" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Oola Restaurant & Bar\t860 Folsom St\tSan Francisco\tCA\t94107\t37.7809256045611" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Skool\t1725 Alameda St\tSan Francisco\tCA\t94103\t37.7686047285832" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Mission Rock Resort\t817 Terry Francois Blvd\tSan Francisco\tCA\t94107\t37.766607" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Mayes Oyster House\t1233 Polk St\tSan Francisco\tCA\t94109\t37.7883676923077" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Farallon\t450 Post St\tSan Francisco\tCA\t94102\t37.788312" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Bar Crudo\t665 Divisadero St\tSan Francisco\tCA\t94117\t37.7755509591837" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "Choquet's\t2500 Washington St\tSan Francisco\tCA\t94115\t37.791654" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "The Ramp\t855 Terry Francois St\tSan Francisco\tCA\t94107\t37.7662098651625" }, "geometry": null },
+{ "type": "Feature", "properties": { "name\taddress\tcity\tst\tzip\tcoordinates\tphone": "" }, "geometry": null }
+]
 }
